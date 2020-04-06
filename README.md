@@ -1,2 +1,2 @@
 # ChromaticNumber
-Finding exact chromatic number of graph of different methods and intervals with various methods.
+Finding exact chromatic number of graph and its intervals with various methods.
